@@ -1,0 +1,52 @@
+
+--- Introduction
+
+Meriam-Webster's definition of the word simple is as follows: to be readily understood or performed. Like most definitions, this leaves more questions than answers. Oddly enough though, a better place to start is Meriam-Webster's definition of complex: a whole made up of complicated or interrelated parts.
+
+Notice how the definition wasn't "difficult to understand or perform". Instead it captures a common quality of complex things: touching one component of the system affects other components of the system. And those components may affect more components who, in turn, may affect more components (and so on).
+
+This leads to my personal definition of simple: a self-contained unit. Simple things don't have many 2nd order effects (if at all). You change something simple and that's it. Nothing unexpected changes as a result. There's only so many possible scenarios (like less than 5) and you can quickly think through all of them.
+
+In contrast, complex things explode. If changing one thing changes 10 other things, which changes 10 other things, which changes 10 other things (and so on), you've reached 1000 thousand different scenarios in only 3 time steps. That's a problem.
+
+--- Simplicity is the Key to Understanding
+
+So what's the antidote to complexity? Science tells us to simplify. For instance, when analyzing the distance a baseball travels after being struck by a bat, simplifications are 
+
+--- Why the World isn't a Clusterfuck of chaos
+
+If complex things, which are composed of interactions between lots of simple things, explode in the number of possibilities in their state very quickly, why, you may ask, is the world so structured? That is, if there are nearly inumerable possibilities for the state of the world, why isn't the world a pure clusterfuck of chaos? How could it possible by that beings like ourselves come into existence from such chaos?
+
+I'll refrain from giving an adequate answer to the latter question. However, I hope to shed some light on the answer to the first: why does structure exist in the chaos of the world at all? For this, I turn to thermodynamics, which (in large part) is the study of heat and motion.
+
+Thermodynamics is enamored with systems of gases and how energy, pressure, temperature, volume, etc react to each other. Now, one approach to take is to break down a gas into its constituent parts: atoms. By 
+
+
+--- Simplicity is the Key to Building
+
+Simplicity isn't just a tool for reverse engineering nature. It's also vital to engineering brand new things. 
+
+
+--- The Power Law
+
+
+--- People Like Simplicity
+
+Why do people like simplicity? I'm no psychologist but my guess is control.
+
+People fear what they don't understand. Why? Because what you don't understand can kill you. An absence of understanding is like the absence of light: anything could be out there. Maybe it's just the wind or maybe it's an intruder. Regardless, the intruder you can see isn't nearly as frightening as the intruder you can't. Simple things are illuminating in that way. An ease of understanding grants feelings of security.
+
+On the flip side, control is power. A tool is only as useful as the one who wields it. The less you understand something, the less you can use it. Thus, simple tools present a high leverage opportunity: master the tool and you'll be granted significant power to execute your will into the world. This is exactly the tradeoffs engineers make.
+
+---
+
+Resources
+---------
+Deep Simplicity by John Gribbin
+Steve Jobs by Walter Isaacson
+Albert Einstein by Walter Isaacson
+
+
+https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2023/09/History-of-the-Atom-2023.png?ssl=1
+
+The ancient Greeks thought atoms to be indivisible units that combine to form differnt compounts. In 1904 J.J. Thomson discovered electrons and created what is known as the "plum pudding model" with electrons scattered amongst a positively charged cloud. In 1911 Ernest Rutherford posited that atoms are mostly empty space with electrons orbiting a positively charged nucleus. Two more evolutions came from Bohr, who's planetary model proposes that electrons orbit the nucleus at fixed energy levels, and Schrodinger, who's quantum model offers an understanding of electrons as waves. 
