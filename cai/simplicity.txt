@@ -5,6 +5,8 @@ Meriam-Webster's definition of the word simple is as follows: to be readily unde
 
 Notice how the definition wasn't "difficult to understand or perform". Instead it captures a common quality of complex things: touching one component of the system affects other components of the system. And those components may affect more components who, in turn, may affect more components (and so on).
 
+An important detail is that complex systems often have feedback loops. As stated by [Deep Simplicity Author], "[Quote about complexity being feedback loops]". As a simple example, if changing E1 changes E2 which changes E1 which changes E2 (and so on), a system with as little as two components can explode into different states extremely quickly. This is particularly true of systems where a small change in E1 produces a large change in E2.
+
 This leads to my personal definition of simple: a self-contained unit. Simple things don't have many 2nd order effects (if at all). You change something simple and that's it. Nothing unexpected changes as a result. There's only so many possible scenarios (like less than 5) and you can quickly think through all of them.
 
 In contrast, complex things explode. If changing one thing changes 10 other things, which changes 10 other things, which changes 10 other things (and so on), you've reached 1000 thousand different scenarios in only 3 time steps. That's a problem.
