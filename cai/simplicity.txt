@@ -1,6 +1,14 @@
 
 --- Introduction
 
+[Rewrite]
+
+“[Steve Jobs] intuitively appreciated the simplicity of Atari’s games. They came with no manual and needed to be uncomplicated enough that a stoned freshman could figure them out. The only instructions for Atari’s Star Trek game were '1. Insert quarter. 2. Avoid Klingons.'" -- excerpt from Steve Jobs by Walter Isaacson
+
+
+
+[Original]
+
 Meriam-Webster's definition of the word simple is as follows: to be readily understood or performed. Like most definitions, this leaves more questions than answers. Oddly enough though, a better place to start is Meriam-Webster's definition of complex: a whole made up of complicated or interrelated parts.
 
 Notice how the definition wasn't "difficult to understand or perform". Instead it captures a common quality of complex things: touching one component of the system affects other components of the system. And those components may affect more components who, in turn, may affect more components (and so on).
