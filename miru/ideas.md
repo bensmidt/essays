@@ -16,3 +16,4 @@
 ## Quotes
 - It can't be that hard
 - You are what you consistently do 
+- Actions produces information
